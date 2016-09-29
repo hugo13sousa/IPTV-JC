@@ -95,7 +95,7 @@ http://89.163.148.31:8000/live/stakenborg/stakenborg/8722.ts
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8723.ts
 #EXTINF:-1,PT-RTP 2 SD
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8724.ts
-#EXTINF:-1,PT-RTP 1 SD
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="rtp1.png",PT-RTP 1 SD
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8725.ts
 #EXTINF:-1,PT-PORTO CANAL SD
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8727.ts
