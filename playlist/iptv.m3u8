@@ -1,3 +1,4 @@
+#######DESPORTO
 #EXTINF:-1 group-title="DESPORTO",PT-SPORT TV 1 HD 720p
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8717.ts
 #EXTINF:-1 group-title="DESPORTO",PT-SPORT TV 2 HD 720p
@@ -28,8 +29,45 @@ http://31.204.153.115:8081/live/sportv/playlist.m3u8?IPTVONLINE
 http://213.163.65.9:8081/live/sportv2k/playlist.m3u8?IPTVONLINE
 #EXTINF:-1 tvg-logo="http://s20.postimg.org/6d2il0qkp/Spor_TV3.png" group-title="DESPORTO",SporTV 3 SD
 http://79.124.59.218:1935/liveedge/ch07-1/playlist.m3u8?IPTVONLINE
-#EXTINF:-1,PT-CACA E PESCA SD
+#EXTINF:-1 group-title="DESPORTO",PT-CACA E PESCA SD
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8754.ts
+#EXTINF:-1 group-title="DESPORTO",PT-EUROSPORT 2 SD
+http://89.163.148.31:8000/live/stakenborg/stakenborg/8741.ts
+#EXTINF:-1 group-title="DESPORTO",PT-EUROSPORT HD
+http://89.163.148.31:8000/live/stakenborg/stakenborg/8742.ts
+
+
+#EXTINF:-1 group-title="SERIES E FILMES",PT-TV SERIES HD
+http://89.163.148.31:8000/live/stakenborg/stakenborg/8704.ts
+#EXTINF:-1 group-title="SERIES E FILMES",PT-TV CINE 4 HD
+http://89.163.148.31:8000/live/stakenborg/stakenborg/8706.ts
+#EXTINF:-1 group-title="SERIES E FILMES",PT-TV CINE 3 HD
+http://89.163.148.31:8000/live/stakenborg/stakenborg/8707.ts
+#EXTINF:-1 group-title="SERIES E FILMES",PT-TV CINE 2 HD
+http://89.163.148.31:8000/live/stakenborg/stakenborg/8708.ts
+#EXTINF:-1 group-title="SERIES E FILMES",PT-TV CINE 1 HD
+http://89.163.148.31:8000/live/stakenborg/stakenborg/8709.ts
+#EXTINF:-1 group-title="SERIES E FILMES",PT-SYFY SD
+http://89.163.148.31:8000/live/stakenborg/stakenborg/8711.ts
+#EXTINF:-1 group-title="SERIES E FILMES",PT-MOV HD
+http://89.163.148.31:8000/live/stakenborg/stakenborg/8733.ts
+#EXTINF:-1 group-title="SERIES E FILMES",PT-HOLLYWOD SD
+http://89.163.148.31:8000/live/stakenborg/stakenborg/8735.ts
+#EXTINF:-1 group-title="SERIES E FILMES",PT-AXN HD
+http://89.163.148.31:8000/live/stakenborg/stakenborg/8758.ts
+#EXTINF:-1 group-title="SERIES E FILMES",PT-AMC SD
+http://89.163.148.31:8000/live/stakenborg/stakenborg/8759.ts
+#EXTINF:-1 group-title="SERIES E FILMES",PT-CINEMUNDO SD
+http://89.163.148.31:8000/live/stakenborg/stakenborg/8749.ts
+#EXTINF:-1 group-title="SERIES E FILMES",PT-FOX MOVIES SD
+http://89.163.148.31:8000/live/stakenborg/stakenborg/8737.ts
+#EXTINF:-1 group-title="SERIES E FILMES",PT-FOX LIFE HD
+http://89.163.148.31:8000/live/stakenborg/stakenborg/8738.ts
+#EXTINF:-1 group-title="SERIES E FILMES",PT-FOX CRIME HD
+http://89.163.148.31:8000/live/stakenborg/stakenborg/8739.ts
+#EXTINF:-1 group-title="SERIES E FILMES",PT-FOX HD
+http://89.163.148.31:8000/live/stakenborg/stakenborg/8740.ts
+
 
 
 
@@ -37,23 +75,10 @@ http://89.163.148.31:8000/live/stakenborg/stakenborg/8754.ts
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8702.ts
 #EXTINF:-1,PT-TVI 24 SD
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8703.ts
-#EXTINF:-1,PT-TV SERIES HD
-http://89.163.148.31:8000/live/stakenborg/stakenborg/8704.ts
 #EXTINF:-1,PT-TV GLOBO PORTUGAL SD
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8705.ts
-#EXTINF:-1,PT-TV CINE 4 HD
-http://89.163.148.31:8000/live/stakenborg/stakenborg/8706.ts
-#EXTINF:-1,PT-TV CINE 3 HD
-http://89.163.148.31:8000/live/stakenborg/stakenborg/8707.ts
-#EXTINF:-1,PT-TV CINE 2 HD
-http://89.163.148.31:8000/live/stakenborg/stakenborg/8708.ts
-#EXTINF:-1,PT-TV CINE 1 HD
-http://89.163.148.31:8000/live/stakenborg/stakenborg/8709.ts
 #EXTINF:-1,PT-TOROS TV SD
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8710.ts
-#EXTINF:-1,PT-SYFY SD
-http://89.163.148.31:8000/live/stakenborg/stakenborg/8711.ts
-
 #EXTINF:-1,PT-SIC SD
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8719.ts
 #EXTINF:-1,PT-SIC NOTICIAS SD
@@ -68,7 +93,6 @@ http://89.163.148.31:8000/live/stakenborg/stakenborg/8723.ts
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8724.ts
 #EXTINF:-1,PT-RTP 1 SD
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8725.ts
-
 #EXTINF:-1,PT-PORTO CANAL SD
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8727.ts
 #EXTINF:-1,PT-PANDA SD
@@ -81,25 +105,8 @@ http://89.163.148.31:8000/live/stakenborg/stakenborg/8730.ts
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8731.ts
 #EXTINF:-1,https://iptv.zone PT-NAT GEO WILD SD
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8732.ts
-#EXTINF:-1,PT-MOV HD
-http://89.163.148.31:8000/live/stakenborg/stakenborg/8733.ts
-
-#EXTINF:-1,PT-HOLLYWOD SD
-http://89.163.148.31:8000/live/stakenborg/stakenborg/8735.ts
 #EXTINF:-1,PT-FOX NEWS SD
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8736.ts
-#EXTINF:-1,PT-FOX MOVIES SD
-http://89.163.148.31:8000/live/stakenborg/stakenborg/8737.ts
-#EXTINF:-1,PT-FOX LIFE HD
-http://89.163.148.31:8000/live/stakenborg/stakenborg/8738.ts
-#EXTINF:-1,PT-FOX CRIME HD
-http://89.163.148.31:8000/live/stakenborg/stakenborg/8739.ts
-#EXTINF:-1,PT-FOX HD
-http://89.163.148.31:8000/live/stakenborg/stakenborg/8740.ts
-#EXTINF:-1,PT-EUROSPORT 2 SD
-http://89.163.148.31:8000/live/stakenborg/stakenborg/8741.ts
-#EXTINF:-1,PT-EUROSPORT HD
-http://89.163.148.31:8000/live/stakenborg/stakenborg/8742.ts
 #EXTINF:-1,PT-E! ENTERTAINMENT SD
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8743.ts
 #EXTINF:-1,PT-DISNEY JUNIOR SD
@@ -112,22 +119,14 @@ http://89.163.148.31:8000/live/stakenborg/stakenborg/8746.ts
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8747.ts
 #EXTINF:-1,PT-CMTV SD
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8748.ts
-#EXTINF:-1,PT-CINEMUNDO SD
-http://89.163.148.31:8000/live/stakenborg/stakenborg/8749.ts
-
 #EXTINF:-1,PT-CARTOON NETWORK SD
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8751.ts
 #EXTINF:-1,PT-CANAL Q SD
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8752.ts
 #EXTINF:-1,PT-CANAL HISTORIA SD
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8753.ts
-
 #EXTINF:-1,PT-BABY TV SD
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8757.ts
-#EXTINF:-1,PT-AXN HD
-http://89.163.148.31:8000/live/stakenborg/stakenborg/8758.ts
-#EXTINF:-1,PT-AMC SD
-http://89.163.148.31:8000/live/stakenborg/stakenborg/8759.ts
 #EXTINF:-1,PT-A&E SD
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8760.ts
 #EXTINF:-1,PT-24 Kitchen HD
