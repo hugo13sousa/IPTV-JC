@@ -1,5 +1,5 @@
 #######DESPORTO
-#EXTINF:-1 group-title="DESPORTO",PT-SPORT TV 1 HD 720p
+#EXTINF:-1 tvg-id = "sporttv1.pt" group-title="DESPORTO",PT-SPORT TV 1 HD 720p
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8717.ts
 #EXTINF:-1 group-title="DESPORTO",PT-SPORT TV 2 HD 720p
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8716.ts
@@ -37,6 +37,16 @@ http://89.163.148.31:8000/live/stakenborg/stakenborg/8741.ts
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8742.ts
 
 
+
+
+
+
+
+
+
+
+
+#######DESPORTO
 #EXTINF:-1 group-title="SERIES E FILMES",PT-TV SERIES HD
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8704.ts
 #EXTINF:-1 group-title="SERIES E FILMES",PT-TV CINE 4 HD
@@ -71,6 +81,9 @@ http://89.163.148.31:8000/live/stakenborg/stakenborg/8740.ts
 
 
 
+
+
+#######RESTANTES
 #EXTINF:-1,PT-TVI SD
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8702.ts
 #EXTINF:-1,PT-TVI 24 SD
