@@ -119,11 +119,11 @@ http://89.163.148.31:8000/live/stakenborg/stakenborg/8760.ts
 #EXTINF:-1,PT-24 Kitchen HD
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8761.ts
 
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/zcwx1096x/Spor_TV.png" group-title="JORGES",SporTV [COLOR gray] SD[/COLOR] [COLOR yellow]ON[/COLOR]
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/zcwx1096x/Spor_TV.png" group-title="DESPORTO",SporTV SD
 http://31.204.153.115:8081/live/sportv/playlist.m3u8?IPTVONLINE
 
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/ccq9oobd5/Spor_TV2.png" group-title="JORGES",SporTV 2 [COLOR gray] SD[/COLOR] [COLOR yellow]ON[/COLOR]
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/ccq9oobd5/Spor_TV2.png" group-title="DESPORTO",SporTV 2 SD
 http://213.163.65.9:8081/live/sportv2k/playlist.m3u8?IPTVONLINE
 
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/6d2il0qkp/Spor_TV3.png" group-title="JORGES",SporTV 3 [COLOR gray] SD[/COLOR] [COLOR yellow]ON[/COLOR]
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/6d2il0qkp/Spor_TV3.png" group-title="DESPORTO",SporTV 3 SD
 http://79.124.59.218:1935/liveedge/ch07-1/playlist.m3u8?IPTVONLINE
