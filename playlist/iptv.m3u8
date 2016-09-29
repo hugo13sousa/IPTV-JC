@@ -1,27 +1,27 @@
 #######DESPORTO
-#EXTINF:-1 tvg-id="sporttv1.pt" group-title="DESPORTO",PT-SPORT TV 1 HD 720p
+#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/qpyqws1470407526.png" group-title="DESPORTO",PT-SPORT TV 1 HD 720p
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8717.ts
-#EXTINF:-1 group-title="DESPORTO",PT-SPORT TV 2 HD 720p
+#EXTINF:-1 tvg-logo="xxx" group-title="DESPORTO",PT-SPORT TV 2 HD 720p
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8716.ts
-#EXTINF:-1 group-title="DESPORTO",PT-SPORT TV 3 HD 720p
+#EXTINF:-1 tvg-logo="xxx" group-title="DESPORTO",PT-SPORT TV 3 HD 720p
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8718.ts
-#EXTINF:-1 group-title="DESPORTO",PT-SPORT TV 4 HD 720p
+#EXTINF:-1 tvg-logo="xxx" group-title="DESPORTO",PT-SPORT TV 4 HD 720p
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8715.ts
-#EXTINF:-1 group-title="DESPORTO",PT-SPORT TV 5 SD
+#EXTINF:-1 tvg-logo="xxx" group-title="DESPORTO",PT-SPORT TV 5 SD
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8714.ts
-#EXTINF:-1 group-title="DESPORTO",PT-SPORT TV AMERICAS ( Canal de Internet )
+#EXTINF:-1 tvg-logo="xxx" group-title="DESPORTO",PT-SPORT TV AMERICAS ( Canal de Internet )
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8713.ts
-#EXTINF:-1 group-title="DESPORTO",PT-BENFICA TV 2 HD 720p
+#EXTINF:-1 tvg-logo="xxx" group-title="DESPORTO",PT-BENFICA TV 2 HD 720p
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8755.ts
-#EXTINF:-1 group-title="DESPORTO",PT-BENFICA TV 1 HD 720p
+#EXTINF:-1 tvg-logo="xxx" group-title="DESPORTO",PT-BENFICA TV 1 HD 720p
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8756.ts
-#EXTINF:-1 group-title="DESPORTO",PT-SPORTING TV SD
+#EXTINF:-1 tvg-logo="xxx" group-title="DESPORTO",PT-SPORTING TV SD
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8712.ts
-#EXTINF:-1 group-title="DESPORTO",PT-REAL MADRID TV SD
+#EXTINF:-1 tvg-logo="xxx" group-title="DESPORTO",PT-REAL MADRID TV SD
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8726.ts
-#EXTINF:-1 group-title="DESPORTO",PT-CHELSEA TV SD
+#EXTINF:-1 tvg-logo="xxx" group-title="DESPORTO",PT-CHELSEA TV SD
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8750.ts
-#EXTINF:-1 group-title="DESPORTO",PT-MOTORS TV SD
+#EXTINF:-1 tvg-logo="xxx" group-title="DESPORTO",PT-MOTORS TV SD
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8734.ts
 #EXTINF:-1 tvg-logo="http://s20.postimg.org/zcwx1096x/Spor_TV.png" group-title="DESPORTO",SporTV SD
 http://31.204.153.115:8081/live/sportv/playlist.m3u8?IPTVONLINE
@@ -29,11 +29,11 @@ http://31.204.153.115:8081/live/sportv/playlist.m3u8?IPTVONLINE
 http://213.163.65.9:8081/live/sportv2k/playlist.m3u8?IPTVONLINE
 #EXTINF:-1 tvg-logo="http://s20.postimg.org/6d2il0qkp/Spor_TV3.png" group-title="DESPORTO",SporTV 3 SD
 http://79.124.59.218:1935/liveedge/ch07-1/playlist.m3u8?IPTVONLINE
-#EXTINF:-1 group-title="DESPORTO",PT-CACA E PESCA SD
+#EXTINF:-1 tvg-logo="xxx" group-title="DESPORTO",PT-CACA E PESCA SD
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8754.ts
-#EXTINF:-1 group-title="DESPORTO",PT-EUROSPORT 2 SD
+#EXTINF:-1 tvg-logo="xxx" group-title="DESPORTO",PT-EUROSPORT 2 SD
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8741.ts
-#EXTINF:-1 group-title="DESPORTO",PT-EUROSPORT HD
+#EXTINF:-1 tvg-logo="xxx" group-title="DESPORTO",PT-EUROSPORT HD
 http://89.163.148.31:8000/live/stakenborg/stakenborg/8742.ts
 
 
